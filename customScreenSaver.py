@@ -1,6 +1,6 @@
 import pygame  
 
-# This section is just defining some colors for later use
+# This section is just defining some colors for later use, hello world
 BLACK = (0,0,0)
 WHITE = (255,255,255)
 GREEN = (0,255,0)
